@@ -1,0 +1,1 @@
+This project takes two images of equal width and height as inputs, finds the closest colored pixel in each image and swaps their places -- essentially swapping their color palette. It uses a distance formula, threading, and file reading and analysis. 
